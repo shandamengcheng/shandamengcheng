@@ -1,6 +1,6 @@
 # 👋 你好，我是 JonaZhu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E6%98%AFJonaZhu%2C+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%F0%9F%98%8C)](https://git.io/typing-svg)
 
 ## 🚀 关于我
 我是一名热爱技术的开发者，主要专注B端业务, 也涉猎过C端大型活动(H5, RN)。我喜欢探索新技术，解决具有挑战性的问题，并与开源社区分享知识。
