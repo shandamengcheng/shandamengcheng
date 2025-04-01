@@ -1,7 +1,7 @@
 # 👋 你好，我是 JonaZhu
 
 ## 🚀 关于我
-我是一名热爱技术的开发者，专注于前端开发。我喜欢探索新技术，解决具有挑战性的问题，并与开源社区分享知识。
+我是一名热爱技术的开发者，主要专注B端业务, 也涉猎过C端大型活动(H5, RN)。我喜欢探索新技术，解决具有挑战性的问题，并与开源社区分享知识。
 
 ## 🛠 技术栈
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,32 +16,23 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shandamengcheng&show_icons=true&theme=radical)
 
 ## 🌟 精选项目
-### [项目名称1](项目链接)
-简短的项目描述，突出关键特性和技术栈。
+### [个人博客](https://github.com/shandamengcheng/personal-blog)
+偶尔会写写文章(工作比较忙, 写的比较少)
 
-### [项目名称2](项目链接)
-简短的项目描述，突出关键特性和技术栈。
+### [babel-condition-plugin](https://github.com/shandamengcheng/babel-condition-plugin)
+React条件渲染组件, 自己写个babel插件试试
 
 ## 📫 联系我
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [你的LinkedIn链接]
-- 🐦 Twitter: [@你的推特用户名]
 
-## 🎯 2024 目标
+## 🎯 2025 目标
 - [ ] 贡献更多开源项目
 - [ ] 学习新的技术栈
 - [ ] 写更多技术博客
 
 ## ⚡ 有趣的事实
-- 🌱 我目前正在学习 [技术名称]
-- 👯 我希望能在 [领域/项目] 上进行合作
+- 🌱 我目前正在学习很多技能
+- 👯 我希望能在B端, C端进行合作
 - 💬 欢迎询问我关于 [你的专业领域] 的问题
-
----
-
-### 📝 最新博客文章
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
