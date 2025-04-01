@@ -1,16 +1,19 @@
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是 JonaZhu
 
 ## 🚀 关于我
-我是一名热爱技术的开发者，专注于[你的领域]开发。我喜欢探索新技术，解决具有挑战性的问题，并与开源社区分享知识。
+我是一名热爱技术的开发者，专注于前端开发。我喜欢探索新技术，解决具有挑战性的问题，并与开源社区分享知识。
 
 ## 🛠 技术栈
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 ## 📊 GitHub 统计
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shandamengcheng&show_icons=true&theme=radical)
 
 ## 🌟 精选项目
 ### [项目名称1](项目链接)
